@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Permanent+Marker|Roboto|Russo+One');
+
+
+
+body{
+    background-color: gainsboro;
+    color:black;
+    
+}
+
+h1{
+    font-family: 'permanent marker', cursive; font-size: 62px; text-align: center; padding: 5px; 
+}
+h2{
+    font-family: 'cinzel', serif; padding-bottom: 10px; margin: auto 60px auto 60px auto 30px auto 10px; text-align: center; background-color: beige; box-shadow: 40px; border-radius: 15px; min-width: 400px;
+    max-width: 800px;
+    max-height: 500px;
+    
+
+}
+
+h3{
+    font-family: 'permanent marker', cursive; text-align: center; font-size: 42px;
+}
+p{
+    font-family:'roboto', serif; text-align: center; border: solid; border-radius: 5px; border-style: groove; padding: 10px; min-width: 400px; max-width: 900px; position:inherit; background-color: white
+}
+a:link{
+    color:cornflowerblue; text-decoration: none; font-family: 'Roboto', serif;
+}
+a:hover{
+    color: crimson; text-decoration: underline
+}
+div{
+    text-align: center; font-family: 'roboto', serif; font-style:normal;
+}
+div2{
+    text-align: center; font-family: 'roboto', serif; font-style: italic; float: right; padding: 10px;
+}
+li{
+    display: inline; margin: auto 10px; text-align: center; color: black;
+}
+ul{
+    display: inline; text-align: center;
+}

@@ -1,0 +1,79 @@
+html{
+    font-family: sans-serif
+}
+
+body{
+    font-family: 'Lato', sans-serif; width: 100%;
+}
+
+#mainmenu{
+    text-align: center; margin: auto;
+}
+ul{
+    list-style: none; font-size: 13px;
+}
+li{
+    float: left; padding: 15px; letter-spacing: 2px;
+}
+#mainphoto{
+    width: 100%; max-height: 600px; padding: 30px 0px 30px 0px;
+}
+
+#healthfeature{
+    font-size: 16px; letter-spacing: 5px; padding: 30px; border-style:solid; border-color: gainsboro; border-width: thin; float: left; align-content: center;width: 100%
+}
+#article1{
+    margin: auto; padding: 20px;
+}
+#article2{
+    margin: auto; padding: 20px;
+}
+#article3{
+    margin: auto; padding: 20px;
+}
+#beautyfeature{
+    font-size: 16px; letter-spacing: 5px; padding: 30px; border-style:solid; border-color: gainsboro; border-width: thin; float: left; align-content: center;width: 100%
+}
+#article4{
+    margin: auto; padding: 20px;
+}
+#article5{
+    margin: auto; padding: 20px;
+}
+#article6{
+    margin: auto; padding: 20px;
+}
+#fitnessfeature{
+    font-size: 16px; letter-spacing: 5px; padding: 30px; border-style:solid; border-color: gainsboro; border-width: thin; float: left; align-content: center;width: 100%
+}
+#article7{
+    margin: auto; padding: 20px;
+}
+#article8{
+    margin: auto; padding: 20px;
+}
+#article9{
+    margin: auto; padding: 20px;
+}
+#followus{
+    text-align: center; letter-spacing: 5px;
+    
+}
+fieldset{
+    width: 100%; background-color: dimgrey;
+}
+p{
+    color: white;
+}
+#subscribebutton{
+    background-color: black;
+}
+#forms{
+    float: left; width: 300px; padding: 10px;
+}
+#readmorebutton{
+    background-color: black
+}
+#messagesubmit{
+    background-color: black
+}
